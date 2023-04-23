@@ -16,6 +16,9 @@
 Top assistant for everyone, it's easier to use
 
 
+![Screnshot](https://github.com/Wansanr/TestProjectVoiceArmo/blob/main/media/Automated-calls.png)
+
+
 
 
 
