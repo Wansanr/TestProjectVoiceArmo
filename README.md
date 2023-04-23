@@ -29,3 +29,12 @@ Top assistant for everyone, it's easier to use
 3. Then the project is at your disposal, it will be enough to launch Python and edit everything you want.
 
 
+
+
+## Code examples and its interactions
+
+
+
+![Screnshot](https://github.com/Wansanr/TestProjectVoiceArmo/blob/main/media/Без%20имени.png)
+
+
