@@ -1,5 +1,6 @@
 <p align="center">
- <h3 align="center">*Armo* Voice assistant</h3>
+  <h2 align="center">*Armo*</h2>
+ <h3 align="center">Voice assistant</h3>
 
   <p align="center">
    A great helper to help in our lives. Choose it and you won't regret it..
